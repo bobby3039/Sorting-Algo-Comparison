@@ -50,8 +50,7 @@ make
 - Enhance UI with better controls and customization.
 - Optimize multithreading for smoother rendering.
 
-## License
-This project is licensed under the MIT License.
+
 
 ## Acknowledgments
 - **Raylib** for the easy-to-use graphics library.
